@@ -1,0 +1,10 @@
+envars.sh
+models/
+logs/
+data/*
+.ipynb_checkpoints/
+__pycache__/
+discussion/
+*.pem
+aws-spot-config.json
+*.ipynb
